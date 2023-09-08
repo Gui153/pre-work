@@ -14,7 +14,7 @@ class MainActivity : AppCompatActivity() {
         val but = findViewById<Button>(R.id.clickmeb)
         but.setOnClickListener{
             Log.v("Hi from Gui","Clicked!")
-            Toast.makeText(this, "Hello from Bob the cat", Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, "Hello from Guilherme and Honey", Toast.LENGTH_SHORT).show()
         }
 
     }
