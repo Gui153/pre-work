@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">World2</string>
+    <string name="intro">Hello, my name is Guilherme and I like cats!!</string>
+    <string name="click_me">Click me!</string>
+</resources>
